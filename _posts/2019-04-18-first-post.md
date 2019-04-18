@@ -51,4 +51,4 @@ My name is **Stephen Garrett**. I am a native Philadelphian. I went to high scho
 * [Ethan Hawke](https://www.youtube.com/watch?v=OI3ofWFejqg),
 * and my dog
 
- <img src="dog1.jpg" alt="Koko">
+ <img src="dog2.jpg">
