@@ -46,4 +46,4 @@ I'm an international affairs junkie, a tech enthusiast, a Chinese speaker, a sin
 * [snooker](https://www.youtube.com/watch?v=9D2rFMPN9js),
 * [tabbouleh](https://www.youtube.com/watch?v=WFUar4zyx3o),
 * [Ethan Hawke](https://www.youtube.com/watch?v=OI3ofWFejqg),
-* and my dog
+* and [my dog](/images/dog1.jpg)
