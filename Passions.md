@@ -8,5 +8,5 @@
 * Mindfulness
 * Volunteering and Community Service
 * Hiking
-&nbsp;
-[home](/index.html)
+---
+* [home](/index.html)
