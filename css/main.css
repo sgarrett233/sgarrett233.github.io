@@ -119,15 +119,6 @@ a:hover {
 /*
 /*****************************************************************************/
 
-#date {
-  font-size: 16px;
-  padding-top: 0.25em;
-  margin-bottom: 2em;
-  text-transform: uppercase;
-  font-weight: 600;
-  color: #787878;
-}
-
 #cover-photo-container,
 #info-container {
   display: block;
