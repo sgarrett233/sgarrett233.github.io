@@ -25,3 +25,5 @@ layout: page.html
 * [tabbouleh](https://www.youtube.com/watch?v=WFUar4zyx3o),
 * [Ethan Hawke](https://www.youtube.com/watch?v=OI3ofWFejqg),
 * and [my dog](/images/dog1.jpg)
+---
+[home](/index.html)
