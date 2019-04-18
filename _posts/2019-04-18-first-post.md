@@ -11,10 +11,11 @@ categories: posts
 &nbsp;
 &nbsp;
 
-My name is **Stephen Garrett**. I am a native Philadelphian. I went to high school in Hong Kong and currently attend Georgetown University's School of Foreign Service. I study Asia and the Middle East, and I'm minoring in Mandarin.​ I'm an international affairs junkie, a tech enthusiast, a Chinese speaker, a singer, a Philadelphia sports fan, and a dog lover.  
+My name is **Stephen Garrett**. I am a native Philadelphian. I went to high school in Hong Kong and currently attend Georgetown University's School of Foreign Service. I study Asia and the Middle East, and I'm minoring in Mandarin.​
+I'm an international affairs junkie, a tech enthusiast, a Chinese speaker, a singer, a Philadelphia sports fan, and a dog lover.  
 
 
-# I am passionate about
+# I am passionate about:
 
 * Global Affairs and Politics, especially Asia and Middle East
 * Media, Technology, and Information Sharing
@@ -24,9 +25,10 @@ My name is **Stephen Garrett**. I am a native Philadelphian. I went to high scho
 * Mindfulness
 * Volunteering and Community Service
 * Hiking
-&nbsp;
-# Some things I love are
 
+
+# Some things I love are:
+&nbsp;
 * [Richard Linklater](https://www.imdb.com/name/nm0000500/),
 * [Spotify playlists](https://open.spotify.com/user/sgarrett233),
 * [New Yorker Profiles](https://www.newyorker.com/magazine/profiles),
