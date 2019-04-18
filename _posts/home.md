@@ -10,16 +10,7 @@ My name is **Stephen Garrett**. I am a native Philadelphian. I went to high scho
 I'm an international affairs junkie, a tech enthusiast, a Chinese speaker, a singer, a Philadelphia sports fan, and a dog lover.  
 
 
-# I am passionate about:
-
-* Global Affairs and Politics, especially Asia and Middle East
-* Media, Technology, and Information Sharing
-* Geopolitics, Security, and the Political Economy
-* US-China Relations
-* Podcasts
-* Mindfulness
-* Volunteering and Community Service
-* Hiking
+Here are [some things](/_pages/2019-04-19-passions.md) I'm passionate about
 
 # Some things I love are:
 
