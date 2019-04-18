@@ -2,6 +2,7 @@
 layout: base.html
 ---
 <br>
+<h1>Things I Love</h1>
 <ul>
 <li><a href="https://www.imdb.com/name/nm0000500/">Richard Linklater</a>,
 </li>

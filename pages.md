@@ -1,5 +1,5 @@
 ---
-layout: page.html
+layout: base.html
 ---
 
 <h1>Pages on my site</h1>
