@@ -1,17 +1,48 @@
 ---
 layout: post
-title: Test post
+title: about
 cover: cover.jpg
-date:   2019-04-18 12:00:00
+date:   
 categories: posts
 ---
 
-# Student Strategy Team GU Politics
-Serving on a Student Strategy Team is a singular opportunity to learn and to educate. GU Politics Fellows offer tremendous knowledge in areas that impact American lives every day, including my own. Learning from them how to conceptualise politics today and act to make a change would be an absolutely incredible experience. What makes this a truly extraordinary experience, though, is the other side of the experience, where I can consult my Fellow on the future of politics, government, and media as I see it. Working alongside like-minded students to inform and encourage these movers and shakers is a dream come true.
+# Hi there!
 
-## How do you think your previous work and leadership experience makes you a good candidate for a Student Strategy Team? *
-	Being a team member is very important to me. I have a lot of experience with team dynamics, from sports teams, music groups, campus clubs, and more, and I operate very well in that space. Teams are usually not highly hierarchical, and even though I take leadership roles in my teams, my experience has taught me the importance of a level playing field in order to encourage diverse input and discussion. With the U.S. Department of Commerce, I developed onboarding materials and strategies for an incoming high-level officer, and solicited support from specialists; this developed my understanding of delegation and shared responsibility. Working in groups at Georgetown and in other settings fuelled in me an innate compulsion to fulfil my responsibilities before accounting for the work 0f others, and I think this and all of these experiences make me a strong candidate for a Student Strategy Team. I work well independently, not just in teams, and also enjoy dealing with ambiguity because, especially in a team setting, it allows for rich brainstorming and also exciting work. My work experience in both government and journalism also sets me apart as a candidate who has seen the two sides of what is frankly a false dichotomy of government and media, and my international affairs focus will provide me with unique insights into the work and strategy of my Fellow.
-## How would you describe your Georgetown experience so far? What about Georgetown are you most excited to share with your Fellow? *
-  My Georgetown experience has been a time of profound growth for me. I’ve experienced challenges like I’ve never known and it has pushed me to develop strategies for myself to overcome obstacles. The opportunities afforded to Georgetown students are beyond comprehension, and taking advantage of these opportunities, from community service to guest speakers to health education and beyond, has been a goal of mine since I stepped onto this campus. My Georgetown experience has been incredibly fulfilling because it has challenged my beliefs, my habits, my brain, and my sense of identity. I chose to open myself up to hear the voices around me, the voices that are shaping the world, and it has given me tremendous faith in the world and an overwhelming sense of gratitude for this school. My Fellow deserves to know about the spirit of ambition intrinsic to so many Georgetown students, the ambition not just to succeed but to succeed well and for the benefit of others. Georgetown students know that work is important and necessary in order to change themselves, and to change the world.
-## What excites you most about politics and public service? *
-  The contradictions are what excite me most about politics and public service. These are areas that sometimes encourage conflicting behaviours: politics can often lift up the most self-interested of us, even while it seeks the most selfless. This is exciting to me because I think it is in such confusing situations that the best people emerge. The best people change the rules of the game in order to serve a greater good, rules that everyone else thinks are set in stone. Public service is the best place for these people because they become bigger than themselves, in the sense that they create an outsized impact on people around them and the communities they are a part of. Politicians and public servants are compelled to speak and to listen; many people can’t do both well. Politics and public service are both filled with contradictions, out of which emerge the best people this world has to offer.
+I am a native Philadelphian. I went to high school in Hong Kong and currently attend Georgetown University's School of Foreign Service. I study Asia and the Middle East, and I'm minoring in Mandarin.​
+
+# I am passionate about
+
+* Global Affairs and Politics, especially Asia and Middle East
+* Media, Technology, and Information Sharing
+* Geopolitics, Security, and the Political Economy
+* US-China Relations
+* Podcasts
+* Mindfulness
+* Volunteering and Community Service
+* Hiking
+
+# Some things I love are
+
+* Richard Linklater,
+* Spotify playlists,
+* New Yorker Profiles,
+* pho,
+* Jacob Collier,
+* iOS app development,
+* Uniball Signo 0.5 pens,
+* e.e. cummings,
+* Jasmine tea,
+* Edward Said,
+* Nina Simone,
+* Lord of the Rings,
+* my baseball glove
+* Thomas Pynchon,
+* Mark Kozelek,
+* conversational podcasts,
+* lists and note-taking,
+* minimalist travel,
+* hot tubs,
+* snooker,
+* tabbouleh,
+* Ethan Hawke,
+* and my dog
