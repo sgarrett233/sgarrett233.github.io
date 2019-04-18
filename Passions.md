@@ -14,6 +14,5 @@ layout: base.html
 </li><li>Hiking
 </li></ul>
 <hr>
-<p> <a href="/index.html">home</a>
-</li> </p>
+<p> <a href="/index.html">home</a> </p>
 <p> <a href="/pages">pages</a></p>
