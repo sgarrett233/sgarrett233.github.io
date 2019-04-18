@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello
+title: Hi!
 cover: cover.png
 date:   2019-04-18 12:00:00
 categories: posts
@@ -47,5 +47,3 @@ I'm an international affairs junkie, a tech enthusiast, a Chinese speaker, a sin
 * [tabbouleh](https://www.youtube.com/watch?v=WFUar4zyx3o),
 * [Ethan Hawke](https://www.youtube.com/watch?v=OI3ofWFejqg),
 * and my dog
-
- <img src="dog2.jpg">
