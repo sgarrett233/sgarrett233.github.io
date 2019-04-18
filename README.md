@@ -1,47 +1,59 @@
-# Ed: A Jekyll Theme for Minimal Editions
+flex
+====
 
-[![Build Status](https://travis-ci.org/minicomp/ed.svg?branch=master)](https://travis-ci.org/minicomp/ed) [![Gem Version](https://badge.fury.io/rb/ed..svg)](https://badge.fury.io/rb/ed.)
+Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
 
+The theme is based on the website [The Development](http://thedevelopment.co).
 
-![Sample Ed screenshot](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
+View a demo website [here](http://the-development.github.io/flex/).
 
+Installation
+===
+To use this theme, you would do so like any other Jekyll setup:
 
+1. Install Jekyll: `gem install jekyll`
+2. Fork this repository to your machine
+3. `cd` to the forked directory and run `jekyll serve --watch`
+4. Celebrate and dance.
 
-## Introduction
+Contributions
+===
 
-Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on [minimal computing](http://go-dh.github.io/mincomp/) principles, and focused on legibility, durability, ease and flexibility.
+In general, there are no strict rules for contributing, only that your code is clean and well structured.
 
+For bugs:
+- To merge a fix, you can simply open a pull request.
+- To report one that is not yet fixed, open an issue.
 
-One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.
+Feature requests:
+- **Always** open an issue first before implementing and proposing a new feature. This is only so I can make sure the theme doesn't become bloated with too many features. This way, I can determine if an idea is something that makes sense for the theme's design.
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a 'full stack' [in one academic semester](https://github.com/susannalles/MinimalEditions/blob/master/index.md), allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming for you, Kindle!
+If in doubt, you can always ask me on Twitter: [@jeffxmn](https://twitter.com/jeffxmn)
 
+License
+===
 
-## Sample Ed editions.
-
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
-
-
-
-## Current Features
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwitdh scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
+Flex is licensed under the MIT license:
 
 
-## Installing and using Ed
+The MIT License (MIT)
 
-To learn how to install and begin using Ed, please visit our [documentation page](http://minicomp.github.io/ed/documentation).
+Copyright (c) 2013-2014 Jeff Martin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
