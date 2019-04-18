@@ -6,12 +6,16 @@ date:   2019-04-18 12:00:00
 categories: posts
 ---
 
+&nbsp;
 # Hi there!
+&nbsp;
+&nbsp;
 
 I am a native Philadelphian. I went to high school in Hong Kong and currently attend Georgetown University's School of Foreign Service. I study Asia and the Middle East, and I'm minoring in Mandarin.​
 
-# I am passionate about
 
+# I am passionate about
+&nbsp;
 * Global Affairs and Politics, especially Asia and Middle East
 * Media, Technology, and Information Sharing
 * Geopolitics, Security, and the Political Economy
@@ -21,8 +25,9 @@ I am a native Philadelphian. I went to high school in Hong Kong and currently at
 * Volunteering and Community Service
 * Hiking
 
-# Some things I love are
 
+# Some things I love are
+&nbsp;
 * Richard Linklater,
 * Spotify playlists,
 * New Yorker Profiles,
