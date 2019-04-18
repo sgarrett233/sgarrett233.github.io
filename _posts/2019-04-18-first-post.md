@@ -1,15 +1,11 @@
 ---
 layout: post
-title: about
+title: Hello
 cover: cover.png
 date:   2019-04-18 12:00:00
 categories: posts
 ---
 
-&nbsp;
-# Hi there!
-&nbsp;
-&nbsp;
 
 My name is **Stephen Garrett**. I am a native Philadelphian. I went to high school in Hong Kong and currently attend Georgetown University's School of Foreign Service. I study Asia and the Middle East, and I'm minoring in Mandarin.​
 I'm an international affairs junkie, a tech enthusiast, a Chinese speaker, a singer, a Philadelphia sports fan, and a dog lover.  
