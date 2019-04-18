@@ -32,3 +32,4 @@ layout: base.html
 </li></ul>
 <hr>
 <p><a href="/index.html">home</a></p>
+<p> <a href="/pages">pages</a></p>
