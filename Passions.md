@@ -1,12 +1,18 @@
-# Passions
-
-* Global Affairs and Politics, especially Asia and Middle East
-* Media, Technology, and Information Sharing
-* Geopolitics, Security, and the Political Economy
-* US-China Relations
-* Podcasts
-* Mindfulness
-* Volunteering and Community Service
-* Hiking
 ---
-* [home](/index.html)
+layout: base.html
+---
+
+<h1>Passions</h1>
+<br>
+<ul><li>Global Affairs and Politics, especially Asia and Middle East
+</li><li>Media, Technology, and Information Sharing
+</li><li>Geopolitics, Security, and the Political Economy
+</li><li>US-China Relations
+</li><li>Podcasts
+</li><li>Mindfulness
+</li><li>Volunteering and Community Service
+</li><li>Hiking
+</li></ul>
+<hr>
+<ul><li><a href="/index.html">home</a>
+</li></ul>
