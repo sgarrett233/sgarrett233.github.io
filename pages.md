@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.html
 ---
 
 # Pages on my site

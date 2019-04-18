@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page.html
 ---
 
 * [Richard Linklater](https://www.imdb.com/name/nm0000500/),
