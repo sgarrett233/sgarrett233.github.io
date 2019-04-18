@@ -26,9 +26,8 @@ I'm an international affairs junkie, a tech enthusiast, a Chinese speaker, a sin
 * Volunteering and Community Service
 * Hiking
 
-
 # Some things I love are:
-&nbsp;
+
 * [Richard Linklater](https://www.imdb.com/name/nm0000500/),
 * [Spotify playlists](https://open.spotify.com/user/sgarrett233),
 * [New Yorker Profiles](https://www.newyorker.com/magazine/profiles),
