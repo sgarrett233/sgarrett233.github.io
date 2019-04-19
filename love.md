@@ -1,6 +1,7 @@
 ---
-layout: base.html
+layout: base
 ---
+<div class="wrapper">
 <br>
 <h1>Things I Love</h1>
 <ul>
@@ -33,3 +34,4 @@ layout: base.html
 <hr>
 <p><a href="/index.html">home</a></p>
 <p> <a href="/pages">pages</a></p>
+</div>
