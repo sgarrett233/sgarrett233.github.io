@@ -1,7 +1,7 @@
 ---
 layout: base.html
 ---
-
+<div class="wrapper">
 <h1>Passions</h1>
 <br>
 <ul><li>Global Affairs and Politics, especially Asia and Middle East
@@ -16,3 +16,4 @@ layout: base.html
 <hr>
 <p> <a href="/index.html">home</a> </p>
 <p> <a href="/pages">pages</a></p>
+</div>

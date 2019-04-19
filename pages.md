@@ -1,7 +1,7 @@
 ---
 layout: base.html
 ---
-
+<div class="wrapper">
 <h1>Pages on my site</h1>
 <ul><li> <a href="/Passions">Things I'm passionate about</a>
 </li>
@@ -10,3 +10,4 @@ layout: base.html
 </ul>
 <hr>
 <p> <a href="/index.html">home</a></p>
+</div>
