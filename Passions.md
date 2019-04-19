@@ -1,5 +1,5 @@
 ---
-layout: base.html
+layout: base
 ---
 <div class="wrapper">
 <h1>Passions</h1>
