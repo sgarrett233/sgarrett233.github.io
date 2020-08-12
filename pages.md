@@ -7,7 +7,7 @@ layout: base
 </li>
 <li> <a href="/love">Things I love</a>
 </li>
-<li> <a href="/ftbc2020">Essay</a>
+<li> <a href="/FTBC2020/">Essay</a>
 </li>
 <li> <a href="https://sfs.georgetown.edu/stephen-garrett-sfs19-learns-to-value-self-reflection-and-academic-growth-at-sfs/">Georgetown SFS Feature (Spring 2019)</a>
 </li>
