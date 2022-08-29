@@ -7,7 +7,7 @@ layout: base
 <ul><li>Global Affairs and Politics, especially Asia and Middle East
 </li><li>Media, Technology, and Information Sharing
 </li><li>Geopolitics, Security, and the Political Economy
-</li><li>US-China Relations
+</li><li>U.S.-China Relations
 </li><li>Podcasts
 </li><li>Mindfulness
 </li><li>Volunteering and Community Service
