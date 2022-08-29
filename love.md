@@ -27,8 +27,8 @@ layout: base
 </li><li><a href="https://www.youtube.com/watch?v=WFUar4zyx3o">tabbouleh</a>,
 </li><li><a href="https://www.youtube.com/watch?v=OI3ofWFejqg">Ethan Hawke</a>,
 </li><li>and <a href="https://www.instagram.com/thats_so_raveng/">my dog</a>
-</li></ul>
+</li>
 <hr>
 <p><a href="/index.html">home</a></p>
 <p> <a href="/pages">pages</a></p>
-</div>
+
