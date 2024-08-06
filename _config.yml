@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Stephen Garrett"
   # tagline will appear under the title (optional)
-  tagline: "Hello! Welcome to my site!"
+  tagline: # "Hello! Welcome to my site!"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
